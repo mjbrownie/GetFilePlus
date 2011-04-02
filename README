@@ -1,3 +1,6 @@
+Usage: place plugin/gf.vim in your ~/.vim/plugin directory
+Repo: https://github.com/mjbrownie/GetFilePlus
+
 GetFilePlus is a simple enhancement on the gf mappings it does the following
 
 1. standard 'find file/path.ext' first as normal gf would.
